@@ -4,3 +4,6 @@
 [submodule "glicthrange"]
 	path = glicthrange
 	url = https://github.com/yamanoku/glicthrange.git
+[submodule "canvas_browser-crash.js"]
+	path = canvas_browser-crash.js
+	url = https://github.com/yamanoku/canvas_browser-crash.js.git
