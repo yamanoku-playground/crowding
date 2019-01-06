@@ -1,3 +1,6 @@
 [submodule "birthday-countdown-js"]
 	path = birthday-countdown-js
 	url = https://github.com/yamanoku/birthday-countdown-js.git
+[submodule "glicthrange"]
+	path = glicthrange
+	url = https://github.com/yamanoku/glicthrange.git
