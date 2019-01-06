@@ -7,3 +7,6 @@
 [submodule "canvas_browser-crash.js"]
 	path = canvas_browser-crash.js
 	url = https://github.com/yamanoku/canvas_browser-crash.js.git
+[submodule "rolling-sushi"]
+	path = rolling-sushi
+	url = https://github.com/yamanoku/rolling-sushi.git
