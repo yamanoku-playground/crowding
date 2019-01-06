@@ -1,0 +1,3 @@
+[submodule "birthday-countdown-js"]
+	path = birthday-countdown-js
+	url = https://github.com/yamanoku/birthday-countdown-js.git
